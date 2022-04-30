@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Exercise101/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.deps.json
+/Users/kanbaramari/Projects/Exercise101/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.runtimeconfig.json
+/Users/kanbaramari/Projects/Exercise101/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Exercise101/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.dll
+/Users/kanbaramari/Projects/Exercise101/Exercise101/bin/Debug/netcoreapp3.1/Exercise101.pdb
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.dll
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.pdb
+/Users/kanbaramari/Projects/Exercise101/Exercise101/obj/Debug/netcoreapp3.1/Exercise101.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Sample101/Sample101/bin/Debug/netcoreapp3.1/Sample101.deps.json
+/Users/kanbaramari/Projects/Sample101/Sample101/bin/Debug/netcoreapp3.1/Sample101.runtimeconfig.json
+/Users/kanbaramari/Projects/Sample101/Sample101/bin/Debug/netcoreapp3.1/Sample101.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Sample101/Sample101/bin/Debug/netcoreapp3.1/Sample101.dll
+/Users/kanbaramari/Projects/Sample101/Sample101/bin/Debug/netcoreapp3.1/Sample101.pdb
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.dll
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.pdb
+/Users/kanbaramari/Projects/Sample101/Sample101/obj/Debug/netcoreapp3.1/Sample101.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+/Users/kanbaramari/Projects/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.deps.json
+/Users/kanbaramari/Projects/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.runtimeconfig.json
+/Users/kanbaramari/Projects/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.dll
+/Users/kanbaramari/Projects/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.pdb
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.dll
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.pdb
+/Users/kanbaramari/Projects/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.genruntimeconfig.cache
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.deps.json
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.dll
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/bin/Debug/netcoreapp3.1/Exercise103.pdb
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.dll
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.pdb
+/Users/kanbaramari/Projects/Learn -in -a -week-C#/Exercise103/Exercise103/obj/Debug/netcoreapp3.1/Exercise103.genruntimeconfig.cache
