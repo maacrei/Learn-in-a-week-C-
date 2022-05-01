@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/bin/Debug/netcoreapp3.1/Sample201.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/bin/Debug/netcoreapp3.1/Sample201.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/bin/Debug/netcoreapp3.1/Sample201.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/bin/Debug/netcoreapp3.1/Sample201.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/bin/Debug/netcoreapp3.1/Sample201.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample201/Sample201/obj/Debug/netcoreapp3.1/Sample201.genruntimeconfig.cache

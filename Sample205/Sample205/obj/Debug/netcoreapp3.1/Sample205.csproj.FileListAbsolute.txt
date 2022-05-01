@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/bin/Debug/netcoreapp3.1/Sample205.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/bin/Debug/netcoreapp3.1/Sample205.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/bin/Debug/netcoreapp3.1/Sample205.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/bin/Debug/netcoreapp3.1/Sample205.dll
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/bin/Debug/netcoreapp3.1/Sample205.pdb
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.dll
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.pdb
+/Users/kanbaramari/Projects/Learn-in-a-weed-C#/Sample205/Sample205/obj/Debug/netcoreapp3.1/Sample205.genruntimeconfig.cache
