@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/bin/Debug/netcoreapp3.1/Exercise303.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/bin/Debug/netcoreapp3.1/Exercise303.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/bin/Debug/netcoreapp3.1/Exercise303.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/bin/Debug/netcoreapp3.1/Exercise303.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/bin/Debug/netcoreapp3.1/Exercise303.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Exercise303/Exercise303/obj/Debug/netcoreapp3.1/Exercise303.genruntimeconfig.cache
