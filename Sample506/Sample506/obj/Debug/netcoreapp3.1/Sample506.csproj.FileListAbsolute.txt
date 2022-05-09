@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/bin/Debug/netcoreapp3.1/Sample506.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/bin/Debug/netcoreapp3.1/Sample506.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/bin/Debug/netcoreapp3.1/Sample506.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/bin/Debug/netcoreapp3.1/Sample506.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/bin/Debug/netcoreapp3.1/Sample506.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample506/Sample506/obj/Debug/netcoreapp3.1/Sample506.genruntimeconfig.cache

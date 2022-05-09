@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/bin/Release/netcoreapp3.1/Sample406.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/bin/Release/netcoreapp3.1/Sample406.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/bin/Release/netcoreapp3.1/Sample406.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/bin/Release/netcoreapp3.1/Sample406.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/bin/Release/netcoreapp3.1/Sample406.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample406/Sample406/obj/Release/netcoreapp3.1/Sample406.genruntimeconfig.cache

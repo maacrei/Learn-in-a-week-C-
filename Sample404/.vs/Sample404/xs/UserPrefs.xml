@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8865A116-EE6A-47B5-9739-F3A734DB174A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample404/Program.cs">
+    <Files>
+      <File FileName="Sample404/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample404" expanded="True" selected="True">
+            <Node name="Sample404" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sample404 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/bin/Release/netcoreapp3.1/Sample404.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/bin/Release/netcoreapp3.1/Sample404.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/bin/Release/netcoreapp3.1/Sample404.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/bin/Release/netcoreapp3.1/Sample404.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/bin/Release/netcoreapp3.1/Sample404.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample404/Sample404/obj/Release/netcoreapp3.1/Sample404.genruntimeconfig.cache
