@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/bin/Debug/netcoreapp3.1/Sample602.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/bin/Debug/netcoreapp3.1/Sample602.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/bin/Debug/netcoreapp3.1/Sample602.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/bin/Debug/netcoreapp3.1/Sample602.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/bin/Debug/netcoreapp3.1/Sample602.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/Sample602/Sample602/obj/Debug/netcoreapp3.1/Sample602.genruntimeconfig.cache
