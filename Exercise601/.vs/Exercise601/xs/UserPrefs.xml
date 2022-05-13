@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{1EAAE94E-0A0C-41A9-921A-3401A8C89D34}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise601/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise601/Vector2D.cs">
     <Files>
-      <File FileName="Exercise601/Program.cs" Line="30" Column="1" />
-      <File FileName="Exercise601/Vector2D.cs" Line="25" Column="2" />
+      <File FileName="Exercise601/Program.cs" Line="28" Column="6" />
+      <File FileName="Exercise601/Vector2D.cs" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Exercise601" expanded="True">
             <Node name="Exercise601" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Vector2D.cs" selected="True" />
             </Node>
           </Node>
         </State>
