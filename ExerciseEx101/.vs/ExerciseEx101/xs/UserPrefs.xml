@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3B6E0FCF-A56D-4881-98FB-26C7BA578EA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExerciseEx101 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseEx101/Vector2D.cs">
+    <Files>
+      <File FileName="ExerciseEx101/Program.cs" Line="31" Column="1" />
+      <File FileName="ExerciseEx101/Vector2D.cs" Line="2" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseEx101" expanded="True">
+            <Node name="ExerciseEx101" expanded="True">
+              <Node name="Vector2D.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

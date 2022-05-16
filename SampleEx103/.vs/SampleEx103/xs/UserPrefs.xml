@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E58B3F6E-ED7D-4AA8-B726-E7CD69D427AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleEx103/Dummy.cs">
+    <Files>
+      <File FileName="SampleEx103/Program.cs" Line="13" Column="1" />
+      <File FileName="SampleEx103/Dummy.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleEx103" expanded="True">
+            <Node name="SampleEx103" expanded="True">
+              <Node name="Dummy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleEx103 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
