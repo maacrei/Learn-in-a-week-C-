@@ -1,0 +1,13 @@
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/bin/Debug/netcoreapp3.1/ExerciseEx203.deps.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/bin/Debug/netcoreapp3.1/ExerciseEx203.runtimeconfig.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/bin/Debug/netcoreapp3.1/ExerciseEx203.runtimeconfig.dev.json
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/bin/Debug/netcoreapp3.1/ExerciseEx203.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/bin/Debug/netcoreapp3.1/ExerciseEx203.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.csproj.AssemblyReference.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.AssemblyInfoInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.AssemblyInfo.cs
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.csproj.CoreCompileInputs.cache
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.dll
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.pdb
+/Users/kanbaramari/Projects/Learn-in-a-week-C#/ExerciseEx203/ExerciseEx203/obj/Debug/netcoreapp3.1/ExerciseEx203.genruntimeconfig.cache
