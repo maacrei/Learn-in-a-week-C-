@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{243E72E1-2016-47B6-8539-50032DADBAE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseEx401/Chicken.cs">
+    <Files>
+      <File FileName="ExerciseEx401/Program.cs" Line="9" Column="36" />
+      <File FileName="ExerciseEx401/Bird.cs" Line="17" Column="2" />
+      <File FileName="ExerciseEx401/Crow.cs" Line="15" Column="1" />
+      <File FileName="ExerciseEx401/Sparrow.cs" Line="14" Column="2" />
+      <File FileName="ExerciseEx401/Chicken.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseEx401" expanded="True">
+            <Node name="ExerciseEx401" expanded="True">
+              <Node name="Chicken.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExerciseEx401 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

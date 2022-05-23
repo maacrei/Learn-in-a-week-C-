@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{38DDB360-710E-4923-AAD2-50E402BAE930}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleEx402/Sparrow.cs">
+    <Files>
+      <File FileName="SampleEx402/Program.cs" Line="19" Column="2" />
+      <File FileName="SampleEx402/Bird.cs" Line="22" Column="2" />
+      <File FileName="SampleEx402/Crow.cs" Line="17" Column="1" />
+      <File FileName="SampleEx402/Sparrow.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleEx402" expanded="True">
+            <Node name="SampleEx402" expanded="True">
+              <Node name="Sparrow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleEx402 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
